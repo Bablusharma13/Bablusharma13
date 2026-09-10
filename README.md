@@ -47,32 +47,20 @@ developer:
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,redis,docker,git,github,html,css" alt="tech stack icons" />
 </p>
 
-### 📌 Featured Projects
+### 📌 Featured Project
 
-<p align="left">
-  <a href="https://github.com/Bablusharma13/MERN-Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=MERN-Portfolio&theme=radical&hide_border=true" alt="MERN-Portfolio" />
-  </a>
-  <a href="https://github.com/Bablusharma13/Advisor-Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=Advisor-Dashboard&theme=radical&hide_border=true" alt="Advisor-Dashboard" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/Bablusharma13/API-Monitoring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=API-Monitoring&theme=radical&hide_border=true" alt="API-Monitoring" />
-  </a>
-  <a href="https://github.com/Bablusharma13/Doctor-Appointment">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=Doctor-Appointment&theme=radical&hide_border=true" alt="Doctor-Appointment" />
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/Bablusharma13/ZeeCare-Medical-Institute">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=ZeeCare-Medical-Institute&theme=radical&hide_border=true" alt="ZeeCare-Medical-Institute" />
-  </a>
-  <a href="https://github.com/Bablusharma13/Quiz-App-with-Timer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=Quiz-App-with-Timer&theme=radical&hide_border=true" alt="Quiz-App-with-Timer" />
-  </a>
-</p>
+<div align="center">
+
+**🎓 SmartCampus** — Campus Management Platform
+
+Full-stack platform for campus operations — auth, scheduling, admin dashboards — built with React, TypeScript, Express, MongoDB and deployed with Docker.
+
+<img src="https://skillicons.dev/icons?i=react,ts,express,mongodb,docker" alt="SmartCampus tech stack" />
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-smartcampus--t712.onrender.com-7C3AED?style=for-the-badge&logo=render&logoColor=white)](https://smartcampus-t712.onrender.com/)
+![Status](https://img.shields.io/badge/status-in%20active%20development-00D9FF?style=for-the-badge)
+
+</div>
 
 ### 📊 GitHub Stats
 
