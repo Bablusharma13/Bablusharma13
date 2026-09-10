@@ -6,10 +6,9 @@
 
 <br/>
 
-<!-- TODO: replace with your real links -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-site.com)
-[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bablu--kumar--portfolio.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://bablu-kumar-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bk392534@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bablu-kumar-7b7028275/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bablusharma13&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 
@@ -89,6 +88,8 @@ developer:
 ## `~/connect`
 
 Always up for talking about MERN, Next.js, or anything worth building.
+
+**[bablu-kumar-portfolio.vercel.app](https://bablu-kumar-portfolio.vercel.app)** · **[bk392534@gmail.com](mailto:bk392534@gmail.com)** · **[LinkedIn](https://www.linkedin.com/in/bablu-kumar-7b7028275/)**
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0B0F17&height=120&section=footer" width="100%"/>
