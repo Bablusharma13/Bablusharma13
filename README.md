@@ -1,20 +1,46 @@
-<h1 align="center">Hi 👋, I'm Bablu Kumar</h1>
-<h3 align="center">Full-Stack Developer | MERN & Next.js | Building Scalable SaaS Applications</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/Bablusharma13">
-    <img src="https://komarev.com/ghpvc/?username=Bablusharma13&label=Profile%20Views&color=7c3aed&style=flat" alt="profile views" />
-  </a>
-  <a href="https://github.com/Bablusharma13?tab=followers">
-    <img src="https://img.shields.io/github/followers/Bablusharma13?label=Followers&style=flat&color=7c3aed" alt="followers" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,50:7C3AED,100:00D9FF&height=180&section=header&text=Bablu%20Kumar&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%26%20Next.js&descAlignY=58&descSize=16" width="100%"/>
 
-- 💼 Full Stack Developer — **MERN** & **Next.js**
-- 🛠️ Working with **Node.js, MongoDB, Redis, BullMQ, Elasticsearch** to build scalable SaaS applications
-- 🔭 Currently building **SmartCampus** — a campus management platform (React + TypeScript, Express, MongoDB, Docker)
-- 🌱 Sharpening skills in system design and secure auth (JWT, CORS/SameSite cookies)
-- ⚡ Fun fact: I like shipping small commits often over one giant PR
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=620&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+BullMQ+%C2%B7+Elasticsearch;Building+Scalable+SaaS+Applications;Currently+shipping%3A+SmartCampus+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<!-- TODO: replace with your real links -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-site.com)
+[![Email](https://img.shields.io/badge/Email-Reach_out-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bablusharma13&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
+
+</div>
+
+---
+
+## `~/whoami`
+
+Full Stack Developer working across the **MERN stack** and **Next.js** — React on the front, Node/Express + MongoDB on the back, Redis and BullMQ for queues/caching, and Elasticsearch when search needs to be fast. I like building things that hold up in production, not just demos.
+
+Right now I'm building **SmartCampus**, a campus management platform (React + TypeScript, Express, MongoDB, Docker), and sharpening system design + secure auth (JWT, CORS/SameSite cookies) along the way.
+
+```yaml
+developer:
+  name: Bablu Kumar
+  role: Full Stack Developer
+  status: building
+
+  stack:
+    - javascript / typescript   # react, node, express
+    - mern                      # mongodb, express, react, node
+    - redis + bullmq            # caching, background jobs
+    - elasticsearch             # search
+
+  currently:
+    - building SmartCampus (campus management platform)
+    - leveling up system design & secure auth
+
+  open_to: [collabs, freelance, open source]
+```
 
 ### 🛠️ Tech Stack
 
@@ -60,11 +86,10 @@
   <img src="https://streak-stats.demolab.com?user=Bablusharma13&theme=radical&hide_border=true" alt="GitHub streak stats" />
 </p>
 
-### 🤝 Connect with me
+## `~/connect`
 
-<p align="left">
-  <!-- TODO: replace with your real links -->
-  <a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-site.com"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
+Always up for talking about MERN, Next.js, or anything worth building.
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00D9FF,100:0B0F17&height=120&section=footer" width="100%"/>
+</div>
