@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bablu Sharma</h1>
-<h3 align="center">Full-Stack Developer building real-world web apps with the MERN + TypeScript stack</h3>
+<h1 align="center">Hi 👋, I'm Bablu Kumar</h1>
+<h3 align="center">Full-Stack Developer | MERN & Next.js | Building Scalable SaaS Applications</h3>
 
 <p align="center">
   <a href="https://github.com/Bablusharma13">
@@ -10,14 +10,43 @@
   </a>
 </p>
 
+- 💼 Full Stack Developer — **MERN** & **Next.js**
+- 🛠️ Working with **Node.js, MongoDB, Redis, BullMQ, Elasticsearch** to build scalable SaaS applications
 - 🔭 Currently building **SmartCampus** — a campus management platform (React + TypeScript, Express, MongoDB, Docker)
-- 🌱 Sharpening skills in **TypeScript**, **system design**, and **secure auth (JWT, CORS/SameSite cookies)**
+- 🌱 Sharpening skills in system design and secure auth (JWT, CORS/SameSite cookies)
 - ⚡ Fun fact: I like shipping small commits often over one giant PR
 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,mongodb,docker,vite,git,github,html,css" alt="tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,mongodb,redis,docker,git,github,html,css" alt="tech stack icons" />
+</p>
+
+### 📌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/Bablusharma13/MERN-Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=MERN-Portfolio&theme=radical&hide_border=true" alt="MERN-Portfolio" />
+  </a>
+  <a href="https://github.com/Bablusharma13/Advisor-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=Advisor-Dashboard&theme=radical&hide_border=true" alt="Advisor-Dashboard" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Bablusharma13/API-Monitoring">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=API-Monitoring&theme=radical&hide_border=true" alt="API-Monitoring" />
+  </a>
+  <a href="https://github.com/Bablusharma13/Doctor-Appointment">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=Doctor-Appointment&theme=radical&hide_border=true" alt="Doctor-Appointment" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/Bablusharma13/ZeeCare-Medical-Institute">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=ZeeCare-Medical-Institute&theme=radical&hide_border=true" alt="ZeeCare-Medical-Institute" />
+  </a>
+  <a href="https://github.com/Bablusharma13/Quiz-App-with-Timer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bablusharma13&repo=Quiz-App-with-Timer&theme=radical&hide_border=true" alt="Quiz-App-with-Timer" />
+  </a>
 </p>
 
 ### 📊 GitHub Stats
