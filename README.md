@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,50:7C3AED,100:00D9FF&height=180&section=header&text=Bablu%20Kumar&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%26%20Next.js&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F17,50:7C3AED,100:00D9FF&height=180&section=header&text=Bablu%20Kumar&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20MERN%20%26%20Next.js&descAlignY=58&descSize=16&reversal=false" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=780&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Node.js+%C2%B7+MongoDB+%C2%B7+Redis+%C2%B7+BullMQ+%C2%B7+Elasticsearch;Building+Scalable+SaaS+Applications;Currently+shipping%3A+SmartCampus+%F0%9F%9A%80" alt="Typing SVG" />
 
